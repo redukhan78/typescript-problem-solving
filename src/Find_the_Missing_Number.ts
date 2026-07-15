@@ -15,7 +15,7 @@ for (let i: number = 0; i < numbers.length; i++) {
 // 0 + 1 + 2 + 4 + 5 = 12
 
 // Step 4: Find missing number
-let missing: number = expectedSum - actualSum;
+let miss: number = expectedSum - actualSum;
 // 15 - 12 = 3
 
-console.log(missing); // 3
+console.log(miss); // 3

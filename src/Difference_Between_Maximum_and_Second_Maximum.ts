@@ -14,5 +14,5 @@ for (let i: number = 1; i < numbers.length; i++) {
   }
 }
 
-const difference: number = max - secondMax;
-console.log(difference);
+const diff: number = max - secondMax;
+console.log(diff);

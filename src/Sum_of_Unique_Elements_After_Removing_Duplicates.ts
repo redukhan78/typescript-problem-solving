@@ -15,7 +15,6 @@ for (let i: number = 0; i < numbers.length; i++) {
     }
   }
 
-  // If not a duplicate, add to unique array and sum
   if (!isDuplicate) {
     uniqueNumbers.push(numbers[i]);
     sum = sum + numbers[i];

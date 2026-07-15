@@ -1,6 +1,6 @@
 const numbers: number[] = [11, 15, 2, 7, 6];
 
-// Check if a number is prime
+// Check a number is prime
 function isPrime(num: number): boolean {
   if (num <= 1) {
     return false;
