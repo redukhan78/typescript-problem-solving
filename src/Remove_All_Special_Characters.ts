@@ -1,4 +1,4 @@
-const text: string = "s@atur!day123";
+const text: string = "s@atur!day";
 
 let result: string = "";
 
@@ -11,4 +11,4 @@ for (let i: number = 0; i < text.length; i++) {
   }
 }
 
-console.log(result); // saturday123
+console.log(result); // saturday
